@@ -1,0 +1,8 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx json-server --host 0.0.0.0 --watch db.json --port $PORT"
+
+  }
+}
